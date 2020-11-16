@@ -1,0 +1,5 @@
+classes = 3
+train  = data/pmb_0828/cfg/train.txt
+valid  = data/pmb_0828/cfg/val.txt
+names  = /home/ubuntu/mfq/object_detection_train/yolo_trainning/data/pmb_0828/cfg/pmb_0828.names
+backup = data/pmb_0828/weights/
